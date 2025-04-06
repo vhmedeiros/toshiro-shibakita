@@ -17,8 +17,8 @@ Inspirado na história de Toshiro Shibakita, este projeto converte um sistema fe
 
 1. **Clone o repositório**
 ```bash
-git clone https://github.com/vhmedeiros/toshiro-shibakita-main.git
-cd toshiro-shibakita-main
+git clone https://github.com/vhmedeiros/toshiro-shibakita.git
+cd toshiro-shibakita
 ```
 
 2. **Suba a aplicação**
